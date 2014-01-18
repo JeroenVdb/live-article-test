@@ -25,12 +25,17 @@
         <![endif]-->
 
         <article ng-controller="liveArticleCtrl">
-            <h1>{{ article.title }}</h1>
+            <h1>{{ article.title }}: {{ jeroen }}</h1>
 
             <p>Some intro text 1 + 2 = {{ 1 + 2 }}</p>
 
             <ul ng-repeat="highlight in article.highlights">
-                <li>{{ highlight.highlight.text }}</li>
+                <li>
+                	{{ highlight.highlight.text }}
+                	<div ng-repeat="context in highlight.contextBottom">
+                		<img src="{{ context.url }}">
+                	</div>
+                </li>
             </ul>   
         </article>
         
