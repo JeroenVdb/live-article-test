@@ -1,0 +1,2683 @@
+{
+	"title": "live titel 2",
+	"introduction": "intro",
+    "highlights": [{
+        "highlight": {
+            "id": {
+                "id": 41472
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Het Agentschap Wegen en Verkeer heeft de fietskoker van de Kennedytunnel in Antwerpen deze morgen afgesloten. Aanleiding is de uitzonderlijk hoge waterstand van de Schelde. De Kennedytunnel blijft voorlopig wel open voor verkeer in beide richtingen. Dat meldt het Agentschap Wegen en Verkeer.<br /><br />Om te vermijden dat door de uitzonderlijk hoge waterstand van de Schelde water in de fietstunnel zou lopen, heeft het agentschap de toegangen van de fietstunnel gedicht met zandzakjes en schotten. Deze morgen begon er water in de fietstunnel binnen te lopen via de rioolputten en ook via de ingang van de fietstunnel op rechteroever.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386308805000,
+            "realDate": 1386308637000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2473238
+            },
+            "creationDate": 1386308637000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 417899125,
+        "editorSourceAccount": true,
+        "formattedRealDate": "06u43",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41453
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In Antwerpen is de Schelde wel degelijk buiten haar oevers getreden en staat het waterpeil deze ochtend nog steeds hoog.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386306808000,
+            "realDate": 1386304438000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2473238
+            },
+            "creationDate": 1386304438000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147389
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"en\"><p>Water komt boven de blauwe steen in <a href=\"https://twitter.com/search?q=%23Antwerpen&amp;src=hash\">#Antwerpen</a> <a href=\"https://twitter.com/search?q=%23Sinterklaasstorm&amp;src=hash\">#Sinterklaasstorm</a> <a href=\"https://twitter.com/HLN_BE\">@HLN_BE</a> <a href=\"http://t.co/rwTZFeQI2J\">pic.twitter.com/rwTZFeQI2J</a></p>&mdash; Jon Bogaert (JBW) (@jon_bogaert) <a href=\"https://twitter.com/jon_bogaert/statuses/408814093945307137\">December 6, 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -857358660,
+        "editorSourceAccount": true,
+        "formattedRealDate": "05u33",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41471
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Het provinciaal rampenplan is officieel opgeheven. De wind kwam niet volledig uit het noordwesten en is in de loop van de avond al gaan liggen waardoor het gevaar week. Toch werd met een stand van 6,33 meter het hoogste waterpeil in enkele decennia bereikt.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386301573000,
+            "realDate": 1386301154000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2473238
+            },
+            "creationDate": 1386301154000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/10/3/9/20131206044840/media_l_6309264.jpg",
+            "urlLarge": "http://static0.hln.be/static/photo/2013/10/3/9/20131206044840/media_xll_6309264.jpg",
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6309264
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386284400000,
+                "dimension": {
+                    "width": 800,
+                    "height": 534
+                },
+                "sourceType": {
+                    "id": 1,
+                    "key": "EDITOR"
+                },
+                "sourceKey": null,
+                "creationDate": 1386301703000,
+                "modificationDate": 1386301720000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 0,
+                    "key": "UNKNOWN"
+                },
+                "creditText": "Henk Deleu",
+                "originalCaption": null,
+                "height": 534,
+                "width": 800
+            },
+            "photoContext": true,
+            "notUnknownCreditType": false
+        }, {
+            "staticUrl": null,
+            "url": "http://static2.hln.be/static/photo/2013/13/8/1/20131206045255/media_l_6309286.jpg",
+            "urlLarge": "http://static1.hln.be/static/photo/2013/13/8/1/20131206045255/media_xll_6309286.jpg",
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6309286
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386284400000,
+                "dimension": {
+                    "width": 800,
+                    "height": 534
+                },
+                "sourceType": {
+                    "id": 1,
+                    "key": "EDITOR"
+                },
+                "sourceKey": null,
+                "creationDate": 1386301963000,
+                "modificationDate": 1386301975000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 0,
+                    "key": "UNKNOWN"
+                },
+                "creditText": "Henk Deleu",
+                "originalCaption": null,
+                "height": 534,
+                "width": 800
+            },
+            "photoContext": true,
+            "notUnknownCreditType": false
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -2067777258,
+        "editorSourceAccount": true,
+        "formattedRealDate": "04u39",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41452
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Overstromingsgevaar in Blankenberge, Nieuwpoort en Bredene is officieel geweken.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386297233000,
+            "realDate": 1386297050000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2473238
+            },
+            "creationDate": 1386297050000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147386
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"en\"><p>UPDATE SINTERKLAASSTORM Laatste update : om 03.30 situatie onder controle. Overstromingsgevaar geweken</p>&mdash; PZ Blankenberge (@PZBlankenberge) <a href=\"https://twitter.com/PZBlankenberge/statuses/408784960091611136\">December 6, 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }, {
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147388
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"en\"><p>Het overstromingsgevaar in Nieuwpoort is geweken. <a href=\"http://t.co/5ISiiIsfEv\">http://t.co/5ISiiIsfEv</a> <a href=\"https://twitter.com/search?q=%23sinterklaasstorm&amp;src=hash\">#sinterklaasstorm</a> <a href=\"https://twitter.com/search?q=%23Xaver&amp;src=hash\">#Xaver</a></p>&mdash; Stad Nieuwpoort (@StadNieuwpoort) <a href=\"https://twitter.com/StadNieuwpoort/statuses/408785309254443008\">December 6, 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1928466458,
+        "editorSourceAccount": true,
+        "formattedRealDate": "03u30",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41451
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Hoewel een uur geleden het waterpeil aan de kust nog aan het stijgen was, lijkt het erop dat er geen gevaar is voor overstroming. Volgens de eerste berichten op Twitter is de wind afgenomen en is de situatie onder controle.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386295947000,
+            "realDate": 1386295766000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2473238
+            },
+            "creationDate": 1386295766000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147385
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"en\"><p>UPDATE SINTERKLAASSTORMOm 02.00 uur stond het waterpeil op 6 meter. Er is nog geen gevaar voor overstroming.... <a href=\"http://t.co/oAEIOF7xyO\">http://t.co/oAEIOF7xyO</a></p>&mdash; PZ Blankenberge (@PZBlankenberge) <a href=\"https://twitter.com/PZBlankenberge/statuses/408767662031126528\">December 6, 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 493505970,
+        "editorSourceAccount": true,
+        "formattedRealDate": "03u09",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41430
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In Nederland is de Oosterscheldekering tussen de eilanden Schouwen-Duiveland en Noord-Beveland gisterenavond dichtgegaan. \"We hebben de knop om 22.52 uur ingedrukt. Het duurt ongeveer 1,5 uur voordat de kering volledig gesloten is\", meldde een woordvoerster van de Nederlandse Rijkswaterstaat. De zeewering sloot in 2007 voor het laatst vanwege een storm.<br /><br />Rijkswaterstaat denkt dat het waterpeil om 01.30 uur 's nachts het hoogste peil van 3,31 meter bereikt. Waarschijnlijk gaat de kering vandaag rond 8.00 uur weer open, maar dat hangt af van de hoogte van het water tegen die tijd. Ook de kering bij de Hollandsche IJssel is gisterenavond gesloten, meldde een woordvoerder.<br /><br />Wetterskip Frysl&acirc;n laat weten dat de dijkbewaking aan de Friese Waddenzeekust in volle gang is. Aan wal en op de eilanden posten enkele tientallen mensen bij de dijken. De dijken zijn berekend op een waterstand van ongeveer 5 meter boven N.A.P, men verwacht een waterstand van 3,5 meter boven N.A.P.<br /><br />Ook onder meer het waterschap Hunze en Aa (Oost-Groningen) heeft groepjes medewerkers op de dijk staan om te boel in de gaten te houden. Mocht er schade zijn, dan wordt dit meteen gerepareerd. In Delfzijl zijn de coupures, de doorgangen in de dijk, gesloten.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386288426000,
+            "realDate": 1386287849000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2473238
+            },
+            "creationDate": 1386287849000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1808674086,
+        "editorSourceAccount": true,
+        "formattedRealDate": "00u57",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41450
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Inmiddels hebben vijf steden en gemeenten ook een noodnummer ge&iuml;nstalleerd. Bredene (059/33.91.84), Oostende (059/34.11.00 tot middernacht), Nieuwpoort (058/22.44.27 en nood@nieuwpoort) en Brugge (050/44.80.00 tot 23 uur) hebben al sinds deze middag een noodnummer. Blankenberge (050/41.10.46 tot middernacht) heeft ook een noodnummer voor de bevolking. Via de sociale media Twitter (<a href=\"https://twitter.com/CrisisWVL\" target=\"_blank\">@crisisWVL</a>) en Facebook (Sinterklaasstorm) kan iederen de situatie op de voet volgen.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386279983000,
+            "realDate": 1386279871000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2240508
+            },
+            "creationDate": 1386279871000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1958912180,
+        "editorSourceAccount": true,
+        "formattedRealDate": "22u44",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41449
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In de Brusselse gemeente Schaarbeek is vanavond een vrouw lichtgewond geraakt toen een boom viel op het bushokje waarin ze schuilde. Dat meldt de Brusselse vervoersmaatschappij MIVB. Het gaat om een bushokje van lijn 66 op de Louis Bertrandlaan. Ook de tramlijnen 7, 44 en 93 ondervinden hinder van het stormweer. Die lijnen zijn onderbroken en zullen vanavond niet meer hersteld worden, aldus de MIVB.<br /><br />De Brusselse brandweer meldt van haar kant dat er ook op de Jean Sobieskilaan twee grote bomen op de rijweg terechtgekomen zijn en dat er verder nog een twintigtal oproepen binnengelopen zijn over loshangende dakgoten en takken op de rijbaan, maar zonder veel erg.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386279459000,
+            "realDate": 1386279194000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2240508
+            },
+            "creationDate": 1386279194000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static2.hln.be/static/photo/2013/3/15/13/20131205224328/media_l_6308953.jpg",
+            "urlLarge": "http://static1.hln.be/static/photo/2013/3/15/13/20131205224328/media_xll_6308953.jpg",
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6308953
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 605
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39948304",
+                "creationDate": 1386279799000,
+                "modificationDate": 1386279808000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 11,
+                    "key": "PHOTO_NEWS"
+                },
+                "creditText": null,
+                "originalCaption": "- Storm op de belgische kust\n- Tempête sur la côte belge\n5/12/2013\npict. by FDC  © Photo News",
+                "height": 605,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -2068207119,
+        "editorSourceAccount": true,
+        "formattedRealDate": "22u33",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41448
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Drie mensen hebben vanavond lichte verwondingen opgelopen doordat ze geraakt werden door stukken roofing in de Dambruggestraat in Antwerpen. Die waren losgerukt door de stormwind en naar beneden gevallen. Dat meldt de lokale politie.<br /><br />Een man liep wat schrammen op, een vrouw had pijn aan de schouder en een tweede vrouw had verwondingen aan de arm. Ze werden alle drie voor verzorging overgebracht naar het Jan Palfijnziekenhuis. De brandweer maakte de roofing opnieuw vast.<br /><br />De stormwind veroorzaakte ook hinder in de Marsstraat in Essen, waar een berk omwaaide en op de rijbaan belandde. Daar raakte niemand gewond. De brandweer komt ter plaatse om de boom in stukken te zagen en weg te halen.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386279157000,
+            "realDate": 1386273895000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2240508
+            },
+            "creationDate": 1386273895000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147323
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"nl\"><p>Parkeer je wagen vanavond niet onder of in de buurt van bomen. Er zijn er al een aantal omgewaaid in <a href=\"https://twitter.com/search?q=%23Leuven&amp;src=hash\">#Leuven</a></p>&mdash; Politie Leuven (@PolitieLeuven) <a href=\"https://twitter.com/PolitieLeuven/statuses/408688461609050112\">5 december 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1592228664,
+        "editorSourceAccount": true,
+        "formattedRealDate": "21u04",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41447
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In de haven van Antwerpen zijn alle operationele diensten extra gebriefd over de storm en het springtij van morgenochtend. Afhankelijk van de waterstand en de windkracht zullen er maatregelen worden genomen, zegt Tine Vandendriessche van het Gemeentelijk Havenbedrijf Antwerpen.<br /><br />Als het hard waait, zullen de bruggen naar beneden blijven en bij een zeer hoge waterstand mogen er geen schepen meer door de sluizen varen, want dan zou er wel eens water in de machinekamer van de sluis kunnen stromen.<br /><br />Het scheepvaartverkeer verloopt momenteel nog normaal. \"Meestal is de kapitein of de rederij de eerste om te beslissen dat het te gevaarlijk is om uit te varen. Het gebeurt zelden dat wij moeten zeggen dat het veiliger is om te wachten\", aldus Vandendriessche.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386273833000,
+            "realDate": 1386273767000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2240508
+            },
+            "creationDate": 1386273767000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/8/10/13/20131205211816/media_l_6308863.jpg",
+            "urlLarge": "http://static1.hln.be/static/photo/2013/8/10/13/20131205211816/media_xll_6308863.jpg",
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6308863
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386258137000,
+                "dimension": {
+                    "width": 900,
+                    "height": 600
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39947202",
+                "creationDate": 1386274041000,
+                "modificationDate": 1386274696000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 9,
+                    "key": "BELGA"
+                },
+                "creditText": null,
+                "originalCaption": "20131205 - BREDENE, BELGIUM: Illustration picture shows a woman with hair on her face because of heavy wind prior to the arrival of the storm Xaver at the Belgian coast, in Bredene, Thursday 05 December 2013. 2000 inhabitants were preventively evacuated from their homes in Bredene. A very high level of water is expected.\r\nBELGA PHOTO KURT DESPLENTER",
+                "height": 600,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1097726282,
+        "editorSourceAccount": true,
+        "formattedRealDate": "21u02",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41446
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Het zwaartepunt van de Sinterklaasstorm zal vannacht en morgen zijn, maar ook vanmiddag was de storm aan zee al heel goed voelbaar. VTM NIEUWS-reporter Aagje brengt verslag uit vanop het strand in Oostende, maar moet haar best doen om zich staande te houden.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386269121000,
+            "realDate": 1386269094000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386269094000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": "http://static0.hln.be",
+            "video": {
+                "id": {
+                    "id": 1752981
+                },
+                "publicationStartDate": 1386268141000,
+                "publicationEndDate": 1393180220000,
+                "type": {
+                    "id": 30,
+                    "key": "VIDEO"
+                },
+                "source": {
+                    "id": 11,
+                    "key": "vmma.be"
+                },
+                "sourceText": null,
+                "state": {
+                    "id": -2,
+                    "key": "ONLINE",
+                    "persistent": false
+                },
+                "reactionState": {
+                    "id": 2,
+                    "key": "ENABLED_WITH_APPROVAL"
+                },
+                "ratingState": {
+                    "id": 1,
+                    "key": "DISABLED"
+                },
+                "emoVotesState": null,
+                "masterNodeId": {
+                    "id": 10000
+                },
+                "creationUserId": {
+                    "id": 1987576
+                },
+                "creationDate": 1386268260000,
+                "originatingKey": "urn:newsml:vtm.be:20131205:962898b0d06d568987543effe6b7cf97:1N",
+                "author": null,
+                "locales": ["nl_BE"],
+                "reactionEndDate": 1391452141000,
+                "videoId": {
+                    "id": 301355
+                },
+                "url": "962898b0d06d568987543effe6b7cf97",
+                "externalId": "urn:newsml:vtm.be:20131205:962898b0d06d568987543effe6b7cf97:1N",
+                "title": "Reporter Aagje vecht tegen de wind",
+                "text": "Het zwaartepunt van de Sinterklaasstorm zal vannacht en morgen zijn, maar ook vanmiddag was de storm aan zee al heel goed voelbaar. VTM NIEUWS-reporter Aagje brengt verslag uit vanop het strand in Oostende, maar moet haar best doen om zich staande te houden.",
+                "originalWidth": 640,
+                "originalHeight": 360,
+                "videoType": {
+                    "id": 24,
+                    "key": "VMMA",
+                    "templateId": {
+                        "id": 25
+                    }
+                },
+                "entityCreationUserId": {
+                    "id": 1987576
+                },
+                "entityCreationDate": 1386268260000,
+                "locale": "nl_BE",
+                "teaserPhoto": {
+                    "id": {
+                        "id": 6308588
+                    },
+                    "mimeType": {
+                        "description": "JPEG",
+                        "mimeType": "image/jpeg",
+                        "extension": "jpg"
+                    },
+                    "originalCreationDate": null,
+                    "dimension": {
+                        "width": 900,
+                        "height": 506
+                    },
+                    "sourceType": {
+                        "id": 7,
+                        "key": "VMMA_BE"
+                    },
+                    "sourceKey": "962898b0d06d568987543effe6b7cf97.jpg",
+                    "creationDate": 1386268222000,
+                    "modificationDate": 1386268264000,
+                    "cropPoint": {
+                        "x": null,
+                        "y": null
+                    },
+                    "cropDimension": {
+                        "width": null,
+                        "height": null
+                    },
+                    "creditType": {
+                        "id": 0,
+                        "key": "UNKNOWN"
+                    },
+                    "creditText": null,
+                    "originalCaption": null,
+                    "height": 506,
+                    "width": 900
+                },
+                "templateId": {
+                    "id": 25
+                },
+                "entityId": 301355,
+                "label": "Reporter Aagje vecht tegen de wind",
+                "teaserPhotoId": {
+                    "id": 6308588
+                },
+                "description": ""
+            },
+            "template": "<iframe width=\"640\" height=\"360\" scrolling=\"no\" allowtransparency=\"true\" frameborder=\"0\" src=\"http://syndication.vmma.be/syndication?vID=962898b0d06d568987543effe6b7cf97&sID=${publication}&autoplay=false\"></iframe>",
+            "teaserPhoto": "http://static0.hln.be/static/photo/2013/18/7/8/20131205193104/media_l_6308588.jpg",
+            "functionBarHeight": 26,
+            "videoHeight": 26,
+            "columnWidth": 458,
+            "imageHeight": 6,
+            "playButtonUrl": "http://static0.hln.be/images/general/bt_play.png",
+            "videoContext": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1461746618,
+        "editorSourceAccount": true,
+        "formattedRealDate": "19u44",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41445
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Ook in Zeebrugge waagden twee kitesurfers zich in zee. Ze beseften al snel dat surfen bij deze wind gekkenwerk is, en keerden vlug terug.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386272194000,
+            "realDate": 1386268461000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386268461000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/17/8/11/20131205193452/media_l_6308606.jpg",
+            "urlLarge": "http://static2.hln.be/static/photo/2013/17/8/11/20131205193452/media_xll_6308606.jpg",
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6308606
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386249795000,
+                "dimension": {
+                    "width": 900,
+                    "height": 600
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39944680",
+                "creationDate": 1386268474000,
+                "modificationDate": 1386268492000,
+                "cropPoint": {
+                    "x": 136,
+                    "y": 137
+                },
+                "cropDimension": {
+                    "width": 630,
+                    "height": 349
+                },
+                "creditType": {
+                    "id": 11,
+                    "key": "PHOTO_NEWS"
+                },
+                "creditText": null,
+                "originalCaption": "ASS HLN Sinterklaasstorm, springtij aan zee, Kite-surfers wagen zich toch in zee op het strand van Zeebrugge, maar merken al gauw dat het gekkenwerk is. PICTURES NOT INCLUDED IN THE CONTRACTS",
+                "height": 349,
+                "width": 630
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 290128636,
+        "editorSourceAccount": true,
+        "formattedRealDate": "19u34",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41444
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Ook Brugge heeft het gemeentelijk rampenplan afgekondigd uit voorzorg tegen de Sinterklaasstorm. Brugge besliste omstreeks 17 uur om ook een noodnummer te installeren: 050/44.80.00. De hulpdiensten zijn in verhoogde staat van paraatheid en houden zich klaar voor de nodige hulpverlening. De provincie raadt aan om de nieuwsberichten in de gaten te houden en zoveel mogelijk binnen te blijven of de probleemgebieden te vermijden. Een provinciaal noodnummer komt er voorlopig niet.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386268391000,
+            "realDate": 1386268370000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1983203
+            },
+            "creationDate": 1386268370000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -627579505,
+        "editorSourceAccount": true,
+        "formattedRealDate": "19u32",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41443
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In Blankenberge zijn vannamiddag twee surfers uit de Noordzee gehaald. Ze waren aan het surfen bij 8 &agrave; 9 Beaufort. Getuigen verwittigden de politie toen ze de twee vanop de dijk opmerkten. De politie maande de twee aan onmiddellijk uit het water te komen, wat niet lukte. Pas toen de hoofdredder in zijn 4x4 verscheen, kwamen de twee jonge surfers de zee uit. Ze kregen een stevige bolwassing van de politie.&nbsp; Ze riskeren een boete of een werkstraf.&nbsp; Ook in Bredene waagde een surfer zich in zee.",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386266634000,
+            "realDate": 1386263054000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386263054000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static1.hln.be/static/photo/2013/11/9/0/20131205182944/media_l_6308505.jpg",
+            "urlLarge": "http://static1.hln.be/static/photo/2013/11/9/0/20131205182944/media_xll_6308505.jpg",
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6308505
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 579
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39940737",
+                "creationDate": 1386264572000,
+                "modificationDate": 1386264584000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 10,
+                    "key": "EPA"
+                },
+                "creditText": null,
+                "originalCaption": "epa03977824 A police officer asks two young surfers to leave the beach at the North Sea in Blankenberge, Belgium, 05 December 2013. Storm 'Xaver' will hit the Belgian North Sea with heavy gusts and a wind velocity of more than 100 kilometers per hour on 05 December.  EPA/JULIEN WARNAND",
+                "height": 579,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -2049672372,
+        "editorSourceAccount": true,
+        "formattedRealDate": "18u04",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41429
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Het verkeer tussen Bredene en Oostende zit deze namiddag in de knoop door de evacuatie van Bredene-Sas. Vanaf 17 uur moeten zo'n 2.000 inwoners van de wijk hun woning verlaten. Het kritieke punt is de Maertensbrug en de Maertenssas op de Noord-Ede, ter hoogte van de Bredense wijk Sas. Het hoogste waterpeil zou komende nacht rond 3 uur bereikt worden. Uit vrees voor een mogelijke dijkbreuk moeten de bewoners vanaf 17 uur hun huizen verlaten.<br /><br /> Die evacuatie zorgt voor een grote verkeersopstopping tussen Bredene en Oostende. Vooral de weg van Oostende richting Bredene-Sas zit volledig dicht. In de andere richting worden Lijnbussen ingelegd om de bewoners van de wijk naar het Staf Versluyscentrum in Bredene te brengen. Daar worden de mensen opgevangen die niet bij familie of vrienden terecht kunnen.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386261852000,
+            "realDate": 1386261824000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386261824000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1538410189,
+        "editorSourceAccount": true,
+        "formattedRealDate": "17u43",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41442
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Op het wetenschapspark in Oostende is deze namiddag een stuk windmolen weggewaaid. Dat bevestigt de brandweer van Oostende.<br />Het incident gebeurde rond 15.30 uur bij Greenbridge, het incubatie- en innovatiecentrum van de UGent. Er vielen geen gewonden. Het afgebroken stuk windmolen kwam op de rijbaan terecht, maar werd door de brandweer opgeruimd.",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386261863000,
+            "realDate": 1386261532000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386261532000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -444424953,
+        "editorSourceAccount": true,
+        "formattedRealDate": "17u38",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41441
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "De inwoners van de Sas-wijk in Bredene worden momenteel preventief ge&euml;vacueerd. Ze worden met bussen van De Lijn naar het Staf Versluyscentrum gebracht en daar opgevangen. De bewoners krijgen volgende richtlijnen mee:<br /><br />1. Stel<strong> een koffer</strong> samen met extra basiskledij voor alle leden van het gezin.<br /><br />2.&nbsp; Voorzie een voorraad aan <strong>verzorgingsartikelen</strong>: wc-papier, vochtige doekjes, zeep, wasmiddel, maandverband, tandpasta, tandenborstels, desinfecterende handgel.<br /><br />3.&nbsp; Breng <strong>kostbare voorwerpen, documenten</strong>, belangrijke papieren, zaken van emotionele waarde&hellip; zoveel mogelijk naar de <strong>bovenverdieping</strong> van uw woning.<br />&nbsp;<br />4. Hou volgende<strong> persoonlijke zaken</strong> dichtbij: cash geld, identiteitskaart, verzekeringspapieren, rijbewijs, persoonlijke medicijnen (voldoende voorraad), sleutels van woning, auto.<br />&nbsp;<br />5.&nbsp;&nbsp; Bij resterende tijd: verhuis zo veel mogelijk naar de bovenverdieping van uw woning.<br />&nbsp;<br />6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bij vertrek:<strong> sluit gas, elektriciteit en water af</strong>; sluit ramen, rolluiken, deuren. Verwittig uw buren en de politiediensten<br /><br />7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Haal (extra) auto&rsquo;s en andere gemotoriseerde voertuigen weg<br /><br />8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plaats indien voorhanden schotten voor deuren, garagepoort<br /><br />9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volg de aanbevelingen van overheid/hulpverleners",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386261025000,
+            "realDate": 1386260620000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386260620000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1320315347,
+        "editorSourceAccount": true,
+        "formattedRealDate": "17u23",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41428
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In <strong>Antwerpen</strong> wordt de waterstand van de Schelde bij hoogtij nu geschat op 7m15 TAW (Tweede Algemene Waterpassing) met een mogelijke correctie van een tiental centimer. Die 7m15 is 15 centimeter hoger dan gisteren, maar dat verandert niets aan de planning van de hulpdiensten. Hoogste peil wordt bereikt morgenvroeg tussen 5u en 6u. Het hoogtij van 17u zal iets lager zijn, maar nog steeds hoog genoeg om de kaaimuur gesloten te houden. aldus het Waterkundig Labo. Mensen kunnen waterstand volgen op www.waterstanden.be.&nbsp;&nbsp; <br /><br />Het <strong>veer tussen Hoboken en Kruibeke</strong> vaart morgen niet uit tussen 5u en 7u en tussen 17u en 19u. De werknemers van Umicore die normaal de overzet nemen, zullen met de auto moeten gaan. Uit vrees voor schade aan de dijken door golfslag,&nbsp;geldt er een scheepvaartverbod tussen Wintam en Merelbeke en op de Zeeschelde.&nbsp;&nbsp; <br /><br />Waterbuffergebieden zullen ingeschakeld worden langs getijdenrivieren zoals Schelde, Durme, Rupel en Nete. Onder meer buffergebied voorzien in Tielrodebroek in Tielrode en Lippenbroek in Hamme. Water stroomt daar over verlaagde dijk en bereikt zo gecontroleerd een door een hogere ringdijk beschermd overstromingsgebied. Die verlaagde dijken zijn nu al afgesloten voor het publiek.&nbsp;",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386259888000,
+            "realDate": 1386259655000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386259655000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static1.hln.be/static/photo/2013/14/9/8/20131205171319/media_l_6308318.jpg",
+            "urlLarge": null,
+            "caption": "(Archieffoto)",
+            "photo": {
+                "id": {
+                    "id": 6308318
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": null,
+                "dimension": {
+                    "width": 900,
+                    "height": 600
+                },
+                "sourceType": {
+                    "id": 1,
+                    "key": "EDITOR"
+                },
+                "sourceKey": null,
+                "creationDate": 1386259977000,
+                "modificationDate": 1386259999000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 9,
+                    "key": "BELGA"
+                },
+                "creditText": null,
+                "originalCaption": null,
+                "height": 600,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -2070813406,
+        "editorSourceAccount": true,
+        "formattedRealDate": "17u07",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41427
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "De storm Xaver heeft vertragingen veroorzaakt op de Thalysverbinding tussen Parijs-Brussel en Amsterdam. De luchthaven van Zaventem ondervindt weinig hinder. Spoorwegmaatschappij NMBS en spoorwegbeheerder Infrabel volgen de situatie op de voet op. De HSL Noord, dat is de hogesnelheidslijn boven Rotterdam, is afgesloten. Hierdoor rijdt de Thalys vanaf Rotterdam via de klassieke spoorlijnen naar Amsterdam, wat vertragingen oplevert van een half uur tot een uur. In de richting van Keulen zijn er voorlopig geen problemen, meldt Thalys deze namiddag.<br /><br /> Op Brussels Airport in Zaventem ondervindt het vluchtverkeer donderdagnamiddag weinig hinder. Wel zijn er twee vluchten van en naar Hamburg en twee vluchten van en naar M&uuml;nchen op donderdagnamiddag afgelast, net zoals een vlucht uit Amsterdam en drie vluchten naar de Nederlandse hoofdstad. De vluchten van en naar Londen liepen vertraging op. Dat staat te lezen op de website van Brussels Airport.<br /><br /> De NMBS en Infrabel wachten de impact van de storm af. De treinbestuurders kregen de richtlijn mee om donderdag en vrijdag extra voorzichtig te rijden, zegt woordvoerder Bart Crols. Bij Infrabel staat het personeel paraat, aldus Thomas Baeken.",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386259136000,
+            "realDate": 1386258989000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386258989000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/11/15/4/20131205170245/media_l_6308239.jpg",
+            "urlLarge": null,
+            "caption": "(Archieffoto)",
+            "photo": {
+                "id": {
+                    "id": 6308239
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1260226800000,
+                "dimension": {
+                    "width": 900,
+                    "height": 600
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "38930532",
+                "creationDate": 1386259351000,
+                "modificationDate": 1386259365000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 9,
+                    "key": "BELGA"
+                },
+                "creditText": null,
+                "originalCaption": "*** TODAY'S BELGA ARCHIVE PICTURE *** 20091208 - BRUSSELS, BELGIUM: Illustration picture shows the Thalys HST TGV train on the new fast train line between Antwerp and the Belgian-Dutch border, Tuesday 08 December 2009, in Brussels. BELGA PHOTO DIRK WAEM",
+                "height": 600,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 940751057,
+        "editorSourceAccount": true,
+        "formattedRealDate": "16u56",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41440
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "De storm heeft in Groot-Brittanni&euml; een tweede leven ge&euml;ist. In Retford in het Engels graafschap Nottinghamshire kwam een man met een winkelwagentje onder een omvallende boom. Het ongeluk gebeurde in een park, dat wordt gesloten.<br /><br />In Schotland kostte de zware storm eerder het leven aan een vrachtwagenchauffeur. Zijn truck werd omgeblazen.<br /><br />",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386258677000,
+            "realDate": 1386258518000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386258518000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/5/9/13/20131205165449/media_l_6308233.jpg",
+            "urlLarge": null,
+            "caption": "Blackpool, aan de Engelse kust.",
+            "photo": {
+                "id": {
+                    "id": 6308233
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 513
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39938116",
+                "creationDate": 1386258817000,
+                "modificationDate": 1386258889000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 1,
+                    "key": "AFP"
+                },
+                "creditText": null,
+                "originalCaption": "Litter bins are washed along the promenade and waves batter the sea wall in Blackpool, north west England, on December 5, 2013 as high winds hit the north of England and Scotland. A storm lashed Scotland and other parts of Britain with gusts of up to 142 mph (228 kmh), killing at least one person. AFP PHOTO / PAUL ELLIS",
+                "height": 513,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1440291195,
+        "editorSourceAccount": true,
+        "formattedRealDate": "16u48",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41439
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "De hulpdiensten zijn in verhoogde staat van paraatheid en houden zich klaar voor de nodige hulpverlening. De provincie West-Vlaanderen raadt aan om de nieuwsberichten in de gaten te houden en zoveel mogelijk binnen te blijven of de probleemgebieden te vermijden.&nbsp; De bevolking kan in Nieuwpoort terecht op het nummer 058/22.44.27. De Oostendenaars kunnen bellen naar 059/34.11.00. Er komt voorlopig geen provinciaal rampnummer.<br /><br /><br />",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386258383000,
+            "realDate": 1386258326000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386258326000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1319148975,
+        "editorSourceAccount": true,
+        "formattedRealDate": "16u45",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41438
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "De N34 Oostende richting Nieuwpoort wordt afgesloten.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386258013000,
+            "realDate": 1386258002000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386258002000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147317
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"en\"><p><a href=\"https://twitter.com/search?q=%23N34&amp;src=hash\">#N34</a> Nieuwpoort richting Oostende tussen De Smet de Nayerstraat / Kerkstraat en Torhoutsesteenweg Afgesloten sinds 05/12/2013 15:22</p>&mdash; Touring Mobilis (@touring_mobilis) <a href=\"https://twitter.com/touring_mobilis/statuses/408603061368946688\">December 5, 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1405147010,
+        "editorSourceAccount": true,
+        "formattedRealDate": "16u40",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41426
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Gouverneur Carl Decaluw&eacute; haalt hard uit naar kustgemeenten die de storm \"minimaliseren'' zoals Knokke. \"<strong>Ik betreur dat Knokke alles weglacht</strong>. Ik hoop dat er niets gebeurt, maar als er iets gebeurt, zullen we Knokke herinneren aan onze waarschuwingen\", aldus gouverneur Carl Decaluw&eacute; tegen het persbureau Belga.",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386257945000,
+            "realDate": 1386257926000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386257926000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/6/9/1/20131205175314/media_l_6308386.jpg",
+            "urlLarge": null,
+            "caption": "(Archieffoto)",
+            "photo": {
+                "id": {
+                    "id": 6308386
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1354544256000,
+                "dimension": {
+                    "width": 900,
+                    "height": 599
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39892256",
+                "creationDate": 1386260505000,
+                "modificationDate": 1386262394000,
+                "cropPoint": {
+                    "x": 356,
+                    "y": 91
+                },
+                "cropDimension": {
+                    "width": 300,
+                    "height": 182
+                },
+                "creditType": {
+                    "id": 9,
+                    "key": "BELGA"
+                },
+                "creditText": null,
+                "originalCaption": "20131203 - ZONNEBEKE, BELGIUM: West-Flanders Governor Carl Decaluwe (R) pictured on the scene of a multiple collision accident at the A19 highway near Zonnebeke-Beselare, towards Kortrijk, Tuesday 03 December 2013. At least one person died in the accident, 40 to 50 vehicles are involved. The A19 is blocked in both directions. The accident was caused by dense fog.\r\nBELGA PHOTO ERIC LALMAND",
+                "height": 182,
+                "width": 300
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1044650693,
+        "editorSourceAccount": true,
+        "formattedRealDate": "16u38",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41437
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Ook de gemeente Nieuwpoort neemt maatregelen. De Civiele Bescherming plaatst samen met de brandweer 2.000 zandzakken tussen het Kattensas en de Lange Brug. Nog eens 2.000 zandzakken staan klaar. Als er toch problemen zijn, kan de bevolking in Nieuwpoort terecht op het nummer 058/22.44.27.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386257906000,
+            "realDate": 1386257862000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386257862000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -2092155759,
+        "editorSourceAccount": true,
+        "formattedRealDate": "16u37",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41421
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "De bewoners van 9.000 gebouwen in Great Yarmouth aan de Engelse Noordzeekust worden geëvacueerd vanwege hoogwater. Dat meldt de BBC. Op zeker 28 plekken in Wales en Engeland zijn waarschuwingen voor ernstige overstromingen gegeven.<br /><br />De Engelse oostkust kampt met de hoogste vloed in 60 jaar, meldden de autoriteiten. Eerder werden in het graafschap Essex bewoners van 2500 huizen geëvacueerd.",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386255217000,
+            "realDate": 1386255067000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386255067000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/10/4/13/20131205155305/media_l_6308143.jpg",
+            "urlLarge": "http://static3.hln.be/static/photo/2013/10/4/13/20131205155305/media_xll_6308143.jpg",
+            "caption": "De straten in Rhyl in het noorden van Wales staan blank.",
+            "photo": {
+                "id": {
+                    "id": 6308143
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 665
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39938819",
+                "creationDate": 1386255163000,
+                "modificationDate": 1386255185000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 12,
+                    "key": "REUTERS"
+                },
+                "creditText": null,
+                "originalCaption": "Emergency services rescue people from a flooded properties in Rhyl, north Wales December 5, 2013. Hurricane-force winds disrupted transport and power supplies in Scotland and threatened costal flooding in England as they closed on northern Europe in what meteorologists said could be one of the most powerful storms to hit the continent in years.   REUTERS/Phil Noble (BRITAIN  - Tags: ENVIRONMENT DISASTER)",
+                "height": 665,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 890681991,
+        "editorSourceAccount": true,
+        "formattedRealDate": "15u51",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41435
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In Schotland is de storm donderdagmiddag aan het luwen. De spoorwegen onderzoeken of zij op sommige trajecten weer treinen kunnen laten rijden. Van de 50.000 mensen bij wie de stroom was uitgevallen, hebben er 24.000 inmiddels weer licht.<br /><br />Het noodweer heeft voor zover bekend aan &eacute;&eacute;n persoon het leven gekost. Een vrachtwagenchauffeur kwam om, toen zijn wagen op twee auto's werd geblazen.<br /><br />",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386255953000,
+            "realDate": 1386254748000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386254748000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "url": "http://static3.hln.be/static/photo/2013/6/0/9/20131205155318/media_l_6308139.jpg",
+            "urlLarge": "http://static2.hln.be/static/photo/2013/6/0/9/20131205155318/media_xll_6308139.jpg",
+            "caption": "Ook in het Noord-Ierse Antrim gaan de golven hevig tekeer.",
+            "photo": {
+                "id": {
+                    "id": 6308139
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 540
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39939070",
+                "creationDate": 1386254950000,
+                "modificationDate": 1386255198000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 12,
+                    "key": "REUTERS"
+                },
+                "creditText": null,
+                "originalCaption": "Waves crash against Portstewart Harbour as gale force winds hit the the north Antrim coast in northern Ireland December 5, 2013. Hurricane-force winds disrupted transport and power supplies in Scotland and threatened coastal flooding in England as they closed on northern Europe in what meteorologists said could be one of the most powerful storms to hit the continent in years. REUTERS/Cathal McNaughton (NORTHERN IRELAND - Tags: ENVIRONMENT)",
+                "height": 540,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1109297044,
+        "editorSourceAccount": true,
+        "formattedRealDate": "15u45",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41419
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In <strong>Nederland</strong> is door het naderende stormweer het <strong>treinverkeer stilgelegd</strong> in het noorden van het land. Reizigers die hopeloos gestrand zijn, vragen op Twitter of ze met iemand kunnen meerijden. Andersom bieden automobilisten ook lifts aan. Sommigen wenden zich tot het twitteraccount van de Nederlandse Spoorwegen (NS) met de vraag hoe ze in 's hemelsnaam thuis moeten komen. Ook maken veel mensen zich boos dat NS halverwege de dag toch nog heeft besloten een groot deel van het treinverkeer stil te leggen, terwijl eerder was gezegd dat er geen rekening met grote vertragingen gehouden hoefde te worden.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386255971000,
+            "realDate": 1386254616000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386254616000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static2.hln.be/static/photo/2013/5/14/4/20131205154534/media_l_6308119.jpg",
+            "urlLarge": null,
+            "caption": "(Archieffoto)",
+            "photo": {
+                "id": {
+                    "id": 6308119
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1355007600000,
+                "dimension": {
+                    "width": 900,
+                    "height": 600
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39908563",
+                "creationDate": 1386254722000,
+                "modificationDate": 1386254734000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 3,
+                    "key": "ANP"
+                },
+                "creditText": null,
+                "originalCaption": "2012-12-09 AMSTERDAM (ARCHIEFFOTO) - De gele borden op het station waarop de vertrektijden van de trein staan, verdwijnen bijna allemaal. NS laat per station nog één set van de bekende gele borden staan. De vertrekstaten zijn inmiddels een beetje ouderwets geworden, in een tijd waarin bijna iedereen zijn reis van tevoren op internet of onderweg op de mobiele telefoon plant. ANP EVERT ELZINGA",
+                "height": 600,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 450269358,
+        "editorSourceAccount": true,
+        "formattedRealDate": "15u43",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41433
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In de kustgemeenten Bredene, Oostende en Nieuwpoort is reeds de fase van het gemeentelijk nood- en interventieplan afgekondigd.<br />Daarnaast maant de gouverneur de bevolking aan om niet in de Noordzee te gaan. Op die manier worden dereddingsdiensten niet nodeloos extra belast. De gouverneur vroeg ook aan de kustburgemeesters om deze boodschap te verspreiden.<br /><br />De provinciale crisiscel komt samen onder het voorzitterschap van de provinciegouverneur&nbsp; in het Kamgebouw in Brugge. Van zodra er meer nieuws is, wordt er opnieuw gecommuniceerd naar pers.",
+            "generalHighlightType": {
+                "id": 13,
+                "key": "NORMAL"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386255996000,
+            "realDate": 1386251477000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386251477000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static2.hln.be/static/photo/2013/15/12/5/20131205150643/media_l_6308015.jpg",
+            "urlLarge": null,
+            "caption": "Leden van de Civiele Bescherming in Jabbeke vullen zandzakken.",
+            "photo": {
+                "id": {
+                    "id": 6308015
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386175520000,
+                "dimension": {
+                    "width": 900,
+                    "height": 600
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39919925",
+                "creationDate": 1386250804000,
+                "modificationDate": 1386252403000,
+                "cropPoint": {
+                    "x": 28,
+                    "y": 28
+                },
+                "cropDimension": {
+                    "width": 857,
+                    "height": 484
+                },
+                "creditType": {
+                    "id": 9,
+                    "key": "BELGA"
+                },
+                "creditText": null,
+                "originalCaption": "20131204 - JABBEKE, BELGIUM:  as a storm is announced for tomorrow at Belgian coast, and combined with tide times could give the higher water level in 30 years, Wednesday 04 December 2013. BELGA PHOTO KURT DESPLENTER",
+                "height": 484,
+                "width": 857
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }, {
+            "staticUrl": null,
+            "url": "http://static0.hln.be/static/photo/2013/11/14/13/20131205152041/media_l_6308068.jpg",
+            "urlLarge": null,
+            "caption": null,
+            "photo": {
+                "id": {
+                    "id": 6308068
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 589
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39939863",
+                "creationDate": 1386253219000,
+                "modificationDate": 1386253241000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 13,
+                    "key": "VERBEKE"
+                },
+                "creditText": null,
+                "originalCaption": "storm Oostende\r\nfoto : Henk Deleu",
+                "height": 589,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": 1514781251,
+        "editorSourceAccount": true,
+        "formattedRealDate": "14u51",
+        "highlightTrivial": false,
+        "highlightImportant": false
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41432
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "Als preventieve maatregel ter voorbereiding op de &lsquo;Sinterklaasstorm&rsquo; heeft&nbsp; West-Vlaamse gouverneur Carl Decaluw&eacute; beslist om het provinciaal algemeen nood- en interventieplan af te kondigen.<br /><br />De combinatie van een krachtige najaarsstorm&nbsp; met een springtij kan ertoe leiden dat het waterpeil aan de kust&nbsp;<strong> een hoogte van 6,3 meter</strong> kan bereiken. Dat is de hoogste waterstand sinds de grote overstroming van 1953.<br /><br />Aan onze kust worden windstoten<strong> tot 90 kilometer per uur</strong> verwacht, maar het zijn vooral de verwachte, extreem hoge waterstanden die de hulpdiensten zorgen baren. Alle hulpdiensten zijn in verhoogde staat van paraatheid. Zij doen op het terrein al het mogelijke om de noodsituatie onder controle te houden en in te staan voor de nodige hulpverlening.",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386253290000,
+            "realDate": 1386251311000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 1961733
+            },
+            "creationDate": 1386251311000,
+            "showAuthor": false
+        },
+        "contextBottom": [],
+        "contextRight": [{
+            "staticUrl": null,
+            "url": "http://static1.hln.be/static/photo/2013/0/3/2/20131205151032/media_l_6308057.jpg",
+            "urlLarge": null,
+            "caption": "West-Vlaams gouverneur Carl Decaluwé.",
+            "photo": {
+                "id": {
+                    "id": 6308057
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1354543916000,
+                "dimension": {
+                    "width": 900,
+                    "height": 1352
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39892263",
+                "creationDate": 1386252576000,
+                "modificationDate": 1386252632000,
+                "cropPoint": {
+                    "x": 0,
+                    "y": 103
+                },
+                "cropDimension": {
+                    "width": 900,
+                    "height": 940
+                },
+                "creditType": {
+                    "id": 9,
+                    "key": "BELGA"
+                },
+                "creditText": null,
+                "originalCaption": "20131203 - ZONNEBEKE, BELGIUM: West-Flanders Governor Carl Decaluwe pictured on the scene of a multiple collision accident at the A19 highway near Zonnebeke-Beselare, towards Kortrijk, Tuesday 03 December 2013. At least one person died in the accident, 40 to 50 vehicles are involved. The A19 is blocked in both directions. The accident was caused by dense fog.\r\nBELGA PHOTO ERIC LALMAND",
+                "height": 940,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }, {
+            "staticUrl": null,
+            "url": "http://static2.hln.be/static/photo/2013/11/12/9/20131205150839/media_l_6308049.jpg",
+            "urlLarge": null,
+            "caption": "De stadsdiensten plaatsen een stormkeermuur in Oostende.",
+            "photo": {
+                "id": {
+                    "id": 6308049
+                },
+                "mimeType": {
+                    "description": "JPEG",
+                    "mimeType": "image/jpeg",
+                    "extension": "jpg"
+                },
+                "originalCreationDate": 1386198000000,
+                "dimension": {
+                    "width": 900,
+                    "height": 597
+                },
+                "sourceType": {
+                    "id": 5,
+                    "key": "DIO_CONTENT"
+                },
+                "sourceKey": "39938724",
+                "creationDate": 1386252208000,
+                "modificationDate": 1386252519000,
+                "cropPoint": {
+                    "x": null,
+                    "y": null
+                },
+                "cropDimension": {
+                    "width": null,
+                    "height": null
+                },
+                "creditType": {
+                    "id": 11,
+                    "key": "PHOTO_NEWS"
+                },
+                "creditText": null,
+                "originalCaption": "- Stad Oostende plaatst een stormkeermuur naar aanleiding van de verwachtte storm tijdens springtij die golven tot 6 meter hoog kan veroorzaken\n- Digue d'Ostende: préparatifs de la tempête annoncée pour la nuit prochaine\n5/12/2013\npict. by FVE  © Photo News",
+                "height": 597,
+                "width": 900
+            },
+            "photoContext": true,
+            "notUnknownCreditType": true
+        }],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -1661848410,
+        "editorSourceAccount": true,
+        "formattedRealDate": "14u48",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }, {
+        "highlight": {
+            "id": {
+                "id": 41415
+            },
+            "eventId": {
+                "id": 6062
+            },
+            "moment": null,
+            "text": "In Bredene wordt een volledige woonwijk preventief ontruimd voor het naderende stormweer. In de woonwijk Bredene-Sas wonen ongeveer 2.000 mensen. Ook de school Koninklijk Werk Ibis wordt preventief ontruimd.<br /><br />De inwoners van de wijk, die vannacht niet terecht kunnen bij familie/vrienden kunnen vanaf 17 uur terecht in het MEC Staf Versluys, Kapelstraat 76 &ndash; Bredene.&nbsp; Er wordt ook een pendeldienst ingelegd tussen de wijk Sas en het MEC Staf Versluys.&nbsp; De inwoners worden vanaf 17 uur ge&euml;vacueerd.&nbsp; De politie zal uitgebreid in het straatbeeld aanwezig zijn.&nbsp; De inwoners van de wijk Nukker (o.a. sociale woonwijk) worden niet ge&euml;vacueerd.<br /><br />Bredene gaat de zwakke plekken versterken met zandzakken. \"Als er iets gebeurt, dan zal dat het eerste getroffen gebied zijn. Ik hoop dat we vrijdag in hetzelfde Bredene wakker worden als donderdagocht\", aldus burgemeester Steve Vandenberghe.<br /><br />Inwoners of familieleden die vragen hebben, kunnen terecht op het nummer 059/33.91.84.<br /><br /><br />",
+            "generalHighlightType": {
+                "id": 14,
+                "key": "IMPORTANT"
+            },
+            "type": {
+                "id": 1,
+                "key": "GENERAL"
+            },
+            "modificationDate": 1386256982000,
+            "realDate": 1386250684000,
+            "sourceAccount": {
+                "id": {
+                    "id": 7062
+                },
+                "eventId": {
+                    "id": 6062
+                },
+                "sourceType": {
+                    "id": 6,
+                    "key": "editor"
+                },
+                "author": "EDITOR",
+                "authorByLine": "BY_EDITOR",
+                "twitterAccount": null,
+                "twitterHashCode": null,
+                "sourceHighlightsAutoOnline": null
+            },
+            "sourceType": {
+                "id": 6,
+                "key": "editor"
+            },
+            "creationUserId": {
+                "id": 2291821
+            },
+            "creationDate": 1386250684000,
+            "showAuthor": false
+        },
+        "contextBottom": [{
+            "staticUrl": null,
+            "snippet": {
+                "id": {
+                    "id": 147307
+                },
+                "templateId": null,
+                "params": {},
+                "text": "<div class=\"dummy\"></div><blockquote class=\"twitter-tweet\" lang=\"en\"><p>Vanaf 17u worden 2000 inwoners van Bredene-Sas ge&euml;vacueerd. Richtlijnen op <a href=\"http://t.co/5p3m86Wbqv\">http://t.co/5p3m86Wbqv</a> <a href=\"https://twitter.com/search?q=%23provinciewvl&amp;src=hash\">#provinciewvl</a> <a href=\"https://twitter.com/search?q=%23sinterklaasstorm&amp;src=hash\">#sinterklaasstorm</a></p>&mdash; Provincie WVL (@provinciewvl) <a href=\"https://twitter.com/provinciewvl/statuses/408629927282348032\">December 5, 2013</a></blockquote><script type=\"text/javascript\" async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            "snippetContext": true,
+            "twitterFeed": true
+        }],
+        "contextRight": [],
+        "polls": null,
+        "icon": null,
+        "staticUrl": null,
+        "hashCode": -914107538,
+        "editorSourceAccount": true,
+        "formattedRealDate": "14u38",
+        "highlightTrivial": false,
+        "highlightImportant": true
+    }]
+}
