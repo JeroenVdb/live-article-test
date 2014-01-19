@@ -2,19 +2,33 @@ var liveArticle = angular.module('liveArticle', []);
 
 liveArticle.controller('liveArticleCtrl', function ($scope, $http, $interval) {
 
-	var poll = function() {
-		$http.get('data/article130.json').success(function(data) {
-
-			console.log(data.title);
-
-			$scope.article = data;
-			
-			$scope.jeroen = data.title;
-		});
+	var polling = function() {
+		$http.get('data/article130.json')
+			.success(renderLiveArticle);
 	}
 
-	poll();
+	var renderLiveArticle = function(data) {
 
-	var inter = $interval(poll, 3000);
+		$scope.article = data;
+			
+		$scope.jeroen = data.title;
+
+	}
+
+	var renderTitle = function(data) {
+		// all scopes for the title
+	}
+
+	var renderHighlights = function(data) {
+		// all scopes for the highlights
+	}
+
+	var renderScoreboard = function(data) {
+		// all scopes for live football scoreboard
+	}
+
+	polling();
+
+	var pollingInterval = $interval(polling, 3000);
 
 });
