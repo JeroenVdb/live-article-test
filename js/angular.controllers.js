@@ -1,12 +1,20 @@
 var liveArticle = angular.module('liveArticle', []);
 
-liveArticle.controller('liveArticleCtrl', function ($scope, $http) {
-	$http.get('data/article130.json').success(function(data) {
+liveArticle.controller('liveArticleCtrl', function ($scope, $http, $interval) {
 
-		console.log(data.title);
+	var poll = function() {
+		$http.get('data/article130.json').success(function(data) {
 
-		$scope.article = data;
-		
-		$scope.jeroen = data.title;
-	});
+			console.log(data.title);
+
+			$scope.article = data;
+			
+			$scope.jeroen = data.title;
+		});
+	}
+
+	poll();
+
+	var inter = $interval(poll, 3000);
+
 });
